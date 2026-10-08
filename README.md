@@ -20,3 +20,17 @@ Our dataset has undergone rigorous cleaning to ensure its quality and reliabilit
 First Stage Cleaning (as explained in the article): In this initial cleaning stage, we applied specific techniques to enhance data quality. As a result, the dataset was refined, reducing the number of records to 10,387. The Excel file after the first step is stored in the repository under the name of dataset10387_70.csv
 
 Subsequent Stages (Implemented in Python Script): Following the initial cleaning, further data refinement steps were performed using a Python script. These additional stages addressed various aspects of data quality and consistency. After completing these stages, our dataset now contains 5,677 high-quality records of HEAs.
+
+## Citation
+
+If you use this dataset, please cite the article it is based on:
+
+Peivaste, I., Jossou, E. & Tiamiyu, A.A. Data-driven analysis and prediction of stable phases for high-entropy alloy design. *Scientific Reports* 13, 22556 (2023). https://doi.org/10.1038/s41598-023-50044-0
+
+## License
+
+The dataset in this repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it, including for commercial use, provided you give appropriate credit, link to the license, and indicate any changes.
+
+## Source Data
+
+The records in `Dataset_HEAs.xlsx` were compiled from published literature. Source references for each record are given in the main article published
